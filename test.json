@@ -1,7 +1,7 @@
 {
     "activa": true,
     "ip": "213.37.31.94",
-    "propietario": "NombreDelCliente",
-    "expira": "2025-12-31",
-    "comentario": "Gracias por tu compra, cualquier duda contacta por Discord."
+    "propietario": "",
+    "expira": "NUNCA",
+    "comentario": "Disfrutalo."
 }
